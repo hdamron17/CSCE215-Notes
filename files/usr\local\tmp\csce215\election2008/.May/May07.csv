@@ -1,0 +1,5 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,D,R,I,Date,D>9,D5-9,D<5,Tie,R<5,R5-9,R>9,Pollster-len
+New Hampshire,4,44,47,,Apr 30,,,,,4,,,U. of New Hampshire-6
+Texas,34,43,48,,May 01,,,,,,34,,Rasmussen-1
+,,,,,Sums,0,0,0,0,4,34,0

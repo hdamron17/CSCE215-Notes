@@ -1,0 +1,20 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,37,55,,Apr 02,,,,,,,9,Rasmussen-1
+Alaska,3,43,48,,Apr 07,,,,,,3,,Rasmussen-1
+Arizona,10,33,55,,Apr 08,,,,,,,10,Northern Arizona U.-10
+Florida,27,37,46,,Mar 31,,,,,,27,,Quinnipiac U.-8
+Iowa,7,46,42,,Mar 31,,,7,,,,,Rasmussen-1
+Louisiana,9,41,52,,Apr 09,,,,,,,9,Rasmussen-1
+Maine,4,49,39,,Apr 01,4,,,,,,,Rasmussen-1
+Michigan,17,42,43,,Mar 25,,,,,17,,,Rasmussen-1
+Montana,3,43,48,,Apr 06,,,,,,3,,Rasmussen-1
+New Jersey,15,46,44,,Mar 27,,,15,,,,,Rasmu+Fairl
+New Mexico,5,45,42,,Apr 08,,,5,,,,,Rasmussen-1
+New York,31,46,48,,Apr 08,,,,,31,,,Marist Coll.-6
+Ohio,20,40,47,,Apr 08,,,,,,20,,Rasmussen-1
+Pennsylvania,21,47,39,,Apr 09,,21,,,,,,Rasmussen-1
+Tennessee,11,31,58,,Apr 03,,,,,,,11,Rasmussen-1
+Washington,11,48,43,,Mar 27,,11,,,,,,Rasmussen-1
+Wisconsin,10,46,42,,Apr 05,,,10,,,,,St. Norbert Coll.-12
+,,,,,Sums,4,32,37,0,48,53,39

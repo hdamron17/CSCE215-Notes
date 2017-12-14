@@ -1,0 +1,54 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,29,63,,Jan 17,,,,,,,9,SurveyUSA-2
+Alaska,3,35,62,,Jan 01,,,,,,,3,Election 2004
+Arizona,10,45,55,,Jan 01,,,,,,,10,Election 2004
+Arkansas,6,45,54,,Jan 01,,,,,,6,,Election 2004
+California,55,52,39,,Dec 15,55,,,,,,,SurveyUSA-3
+Colorado,9,47,52,,Jan 01,,,,,,9,,Election 2004
+Connecticut,7,54,44,,Jan 01,7,,,,,,,Election 2004
+D.C.,3,90,9,,Jan 01,3,,,,,,,Election 2004
+Delaware,3,53,46,,Jan 01,,3,,,,,,Election 2004
+Florida,27,47,52,,Jan 01,,,,,,27,,Election 2004
+Georgia,15,41,58,,Jan 01,,,,,,,15,Election 2004
+Hawaii,4,54,45,,Jan 01,,4,,,,,,Election 2004
+Idaho,4,30,69,,Jan 01,,,,,,,4,Election 2004
+Illinois,21,55,45,,Jan 01,21,,,,,,,Election 2004
+Indiana,11,39,60,,Jan 01,,,,,,,11,Election 2004
+Iowa,7,55,38,,Jan 06,7,,,,,,,SurveyUSA-3
+Kansas,6,39,53,,Jan 17,,,,,,,6,SurveyUSA-2
+Kentucky,8,35,54,,Jan 06,,,,,,,8,SurveyUSA-3
+Louisiana,9,42,57,,Jan 01,,,,,,,9,Election 2004
+Maine,4,53,45,,Jan 01,,4,,,,,,Election 2004
+Maryland,10,56,43,,Jan 01,10,,,,,,,Election 2004
+Massachusetts,12,47,45,,Dec 15,,,12,,,,,SurveyUSA-3
+Michigan,17,51,48,,Jan 01,,,17,,,,,Election 2004
+Minnesota,10,41,50,,Dec 15,,,,,,10,,SurveyUSA-3
+Mississippi,6,40,60,,Jan 01,,,,,,,6,Election 2004
+Missouri,11,40,51,,Jan 13,,,,,,,11,SurveyUSA-3
+Montana,3,39,59,,Jan 01,,,,,,,3,Election 2004
+Nebraska,5,32,67,,Jan 01,,,,,,,5,Election 2004
+Nevada,5,48,51,,Jan 01,,,,,5,,,Election 2004
+New Hampshire,4,50,49,,Jan 01,,,4,,,,,Election 2004
+New Jersey,15,53,47,,Jan 01,,15,,,,,,Election 2004
+New Mexico,5,40,51,,Dec 15,,,,,,,5,SurveyUSA-3
+New York,31,47,43,,Dec 15,,,31,,,,,SurveyUSA-3
+North Carolina,15,44,56,,Jan 01,,,,,,,15,Election 2004
+North Dakota,3,36,63,,Jan 01,,,,,,,3,Election 2004
+Ohio,20,43,50,,Jan 06,,,,,,20,,SurveyUSA-3
+Oklahoma,7,34,66,,Jan 01,,,,,,,7,Election 2004
+Oregon,7,47,47,,Jan 13,,,,7,,,,SurveyUSA-3
+Pennsylvania,21,51,49,,Jan 01,,,21,,,,,Election 2004
+Rhode Island,4,60,39,,Jan 01,4,,,,,,,Election 2004
+South Carolina,8,41,58,,Jan 01,,,,,,,8,Election 2004
+South Dakota,3,38,60,,Jan 01,,,,,,,3,Election 2004
+Tennessee,11,43,57,,Jan 01,,,,,,,11,Election 2004
+Texas,34,38,61,,Jan 01,,,,,,,34,Election 2004
+Utah,5,26,71,,Jan 01,,,,,,,5,Election 2004
+Vermont,3,59,39,,Jan 01,3,,,,,,,Election 2004
+Virginia,13,40,52,,Jan 17,,,,,,,13,SurveyUSA-2
+Washington,11,52,43,,Jan 13,,11,,,,,,SurveyUSA-3
+West Virginia,5,43,56,,Jan 01,,,,,,,5,Election 2004
+Wisconsin,10,46,44,,Dec 15,,,10,,,,,SurveyUSA-3
+Wyoming,3,29,69,,Jan 01,,,,,,,3,Election 2004
+,,,,,Sums,110,37,95,7,5,72,212

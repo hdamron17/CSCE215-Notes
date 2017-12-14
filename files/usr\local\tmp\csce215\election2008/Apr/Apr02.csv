@@ -1,0 +1,7 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,30,57,,Mar 27,,,,,,,9,U. of South Alabama-4
+Michigan,17,42,43,,Mar 25,,,,,17,,,Rasmussen-1
+New Jersey,15,45,46,,Mar 27,,,,,15,,,Rasmussen-1
+Washington,11,48,43,,Mar 27,,11,,,,,,Rasmussen-1
+,,,,,Sums,0,11,0,0,32,0,9

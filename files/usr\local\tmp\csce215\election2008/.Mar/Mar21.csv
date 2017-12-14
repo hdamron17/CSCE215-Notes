@@ -1,0 +1,54 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,40,54,,Mar 06,,,,,,,9,SurveyUSA-1
+Alaska,3,43,48,,Mar 06,,,,,,3,,SurveyUSA-1
+Arizona,10,39,51,,Mar 06,,,,,,,10,SurveyUSA-1
+Arkansas,6,30,48,,Mar 11,,,,,,,6,Opini+Surve
+California,55,52,39,,Mar 12,55,,,,,,,Rasmu+Surve
+Colorado,9,50,41,,Mar 06,,9,,,,,,SurveyUSA-1
+Connecticut,7,53,36,,Mar 11,7,,,,,,,Rasmu+Surve
+D.C.,3,90,9,,Jan 01,3,,,,,,,Election 2004
+Delaware,3,50,41,,Mar 06,,3,,,,,,SurveyUSA-1
+Florida,27,45,47,,Mar 06,,,,,27,,,SurveyUSA-1
+Georgia,15,41,54,,Mar 06,,,,,,,15,SurveyUSA-1
+Hawaii,4,61,31,,Mar 06,4,,,,,,,SurveyUSA-1
+Idaho,4,39,52,,Mar 06,,,,,,,4,SurveyUSA-1
+Illinois,21,60,31,,Mar 06,21,,,,,,,SurveyUSA-1
+Indiana,11,41,50,,Mar 06,,,,,,11,,SurveyUSA-1
+Iowa,7,50,41,,Mar 06,,7,,,,,,SurveyUSA-1
+Kansas,6,41,50,,Mar 06,,,,,,6,,SurveyUSA-1
+Kentucky,8,33,54,,Mar 06,,,,,,,8,SurveyUSA-1
+Louisiana,9,39,54,,Mar 06,,,,,,,9,SurveyUSA-1
+Maine,4,53,39,,Mar 06,4,,,,,,,SurveyUSA-1
+Maryland,10,53,40,,Mar 06,10,,,,,,,SurveyUSA-1
+Massachusetts,12,49,42,,Mar 06,,12,,,,,,SurveyUSA-1
+Michigan,17,44,45,,Mar 10,,,,,17,,,Rasmu+Surve
+Minnesota,10,49,42,,Mar 06,,10,,,,,,SurveyUSA-1
+Mississippi,6,41,54,,Mar 06,,,,,,,6,SurveyUSA-1
+Missouri,11,42,48,,Mar 06,,,,,,11,,SurveyUSA-1
+Montana,3,39,47,,Mar 06,,,,,,3,,SurveyUSA-1
+Nebraska,5,42,45,,Mar 06,,,,,5,,,SurveyUSA-1
+Nevada,5,46,41,,Mar 06,,5,,,,,,SurveyUSA-1
+New Hampshire,4,46,44,,Mar 06,,,4,,,,,SurveyUSA-1
+New Jersey,15,43,43,,Mar 06,,,,15,,,,SurveyUSA-1
+New Mexico,5,50,43,,Mar 06,,5,,,,,,SurveyUSA-1
+New York,31,52,38,,Mar 06,31,,,,,,,SurveyUSA-1
+North Carolina,15,45,47,,Mar 06,,,,,15,,,SurveyUSA-1
+North Dakota,3,46,42,,Mar 06,,,3,,,,,SurveyUSA-1
+Ohio,20,40,46,,Mar 13,,,,,,20,,Rasmussen-1
+Oklahoma,7,34,57,,Mar 06,,,,,,,7,SurveyUSA-1
+Oregon,7,49,41,,Mar 06,,7,,,,,,SurveyUSA-1
+Pennsylvania,21,42,45,,Mar 10,,,,,21,,,Rasmu+Susqu+Surve
+Rhode Island,4,53,38,,Mar 06,4,,,,,,,SurveyUSA-1
+South Carolina,8,45,48,,Mar 06,,,,,8,,,SurveyUSA-1
+South Dakota,3,41,48,,Mar 06,,,,,,3,,Surve+Rasmu
+Tennessee,11,38,54,,Mar 06,,,,,,,11,SurveyUSA-1
+Texas,34,46,47,,Mar 06,,,,,34,,,SurveyUSA-1
+Utah,5,39,50,,Mar 06,,,,,,,5,SurveyUSA-1
+Vermont,3,63,29,,Mar 06,3,,,,,,,SurveyUSA-1
+Virginia,13,47,47,,Mar 06,,,,13,,,,SurveyUSA-1
+Washington,11,48,42,,Mar 06,,11,,,,,,Surve+Rasmu
+West Virginia,5,35,53,,Mar 06,,,,,,,5,SurveyUSA-1
+Wisconsin,10,51,40,,Mar 06,10,,,,,,,SurveyUSA-1
+Wyoming,3,35,54,,Mar 06,,,,,,,3,SurveyUSA-1
+,,,,,Sums,152,69,7,28,127,57,98

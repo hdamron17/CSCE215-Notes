@@ -1,0 +1,53 @@
+State,EV,D,R,I,Date,D>9,D5-9,D<5,Tie,R<5,R5-9,R>9,Pollster-len
+Alabama,9,37,62,,Sep 22,,,,,,,9,Rasmussen+SurveyUSA
+Alaska,3,40,55,,Oct 06,,,,,,,3,Rasmussen
+Arizona,10,38,52,,Sep 29,,,,,,,10,Rasmussen+Arizona S
+Arkansas,6,42,52,,Sep 22,,,,,,,6,Rasmussen+ARG
+California,55,55,39,,Oct 05,55,,,,,,,SurveyUSA
+Colorado,9,49,45,,Oct 06,,,9,,,,,Insider A+Rasmussen+Mason
+Connecticut,7,52,37,,Sep 25,7,,,,,,,SurveyUSA+Pulsar Re+ARG
+D.C.,3,82,13,,Sep 13,3,,,,,,,ARG
+Delaware,3,57,37,,Sep 23,3,,,,,,,SurveyUSA+Fairleigh
+Florida,27,49,45,,Oct 05,,,27,,,,,Five polls
+Georgia,15,44,51,,Sep 30,,,,,,15,,Insider A+Research +SurveyUSA
+Hawaii,4,68,27,,Sep 20,4,,,,,,,Rasmussen
+Idaho,4,33,62,,Sep 17,,,,,,,4,Research 2000
+Illinois,21,54,40,,Sep 17,21,,,,,,,Four polls
+Indiana,11,46,48,,Oct 06,,,,,11,,,Four polls
+Iowa,7,53,41,,Sep 30,7,,,,,,,Research +Rasmussen
+Kansas,6,40,56,,Sep 22,,,,,,,6,SurveyUSA+Rasmussen
+Kentucky,8,42,53,,Sep 30,,,,,,,8,Rasmussen+Mason
+Louisiana,9,40,55,,Sep 25,,,,,,,9,Rasmussen
+Maine,4,51,46,,Oct 02,,4,,,,,,Rasmussen
+Maryland,10,57,38,,Sep 20,10,,,,,,,Rasmussen+ARG
+Massachusetts,12,56,39,,Sep 23,12,,,,,,,Rasmussen+SurveyUSA+ARG
+Michigan,17,49,43,,Sep 24,,17,,,,,,Ten polls
+Minnesota,10,52,42,,Oct 05,10,,,,,,,Four polls
+Mississippi,6,44,52,,Sep 30,,,,,,6,,Rasmussen
+Missouri,11,50,48,,Oct 05,,,11,,,,,Rasmussen+Opinion R
+Montana,3,44,52,,Oct 01,,,,,,3,,Rasmussen
+Nebraska,5,37,56,,Sep 30,,,,,,,5,Rasmussen
+Nevada,5,50,46,,Oct 06,,,5,,,,,Four polls
+New Hampshire,4,53,43,,Oct 05,4,,,,,,,SurveyUSA+Opinion R+Rasmussen
+New Jersey,15,51,40,,Oct 05,15,,,,,,,Fairleigh+SurveyUSA
+New Mexico,5,49,43,,Oct 01,,5,,,,,,Rasmussen+Research +SurveyUSA
+New York,31,58,37,,Sep 30,31,,,,,,,Siena Col+SurveyUSA
+North Carolina,15,48,48,,Oct 06,,,,15,,,,SurveyUSA+Opinion R+Rasmussen
+North Dakota,3,42,53,,Sep 17,,,,,,,3,Research +ARG
+Ohio,20,49,46,,Oct 05,,,20,,,,,Seven polls
+Oklahoma,7,32,65,,Oct 05,,,,,,,7,TV Poll+SurveyUSA
+Oregon,7,52,40,,Sep 24,7,,,,,,,Research +SurveyUSA+ARG
+Pennsylvania,21,53,41,,Oct 06,21,,,,,,,Four polls
+Rhode Island,4,48,26,,Oct 01,4,,,,,,,Opinion Factor
+South Carolina,8,41,54,,Sep 24,,,,,,,8,Research +SurveyUSA+Rasmussen
+South Dakota,3,39,55,,Sep 21,,,,,,,3,ARG
+Tennessee,11,39,57,,Sep 29,,,,,,,11,Rasmussen+Mason
+Texas,34,43,52,,Sep 29,,,,,,34,,Rasmussen
+Utah,5,28,64,,Sep 13,,,,,,,5,ARG+Rasmussen+Dan Jones
+Vermont,3,56,38,,Sep 22,3,,,,,,,ARG
+Virginia,13,51,45,,Oct 05,,13,,,,,,Six polls
+Washington,11,53,43,,Oct 02,11,,,,,,,Rasmussen
+West Virginia,5,44,50,,Sep 24,,,,,,5,,Rasmussen+Opinion R
+Wisconsin,10,52,44,,Oct 06,,10,,,,,,SurveyUSA+Opinion R
+Wyoming,3,36,57,,Sep 24,,,,,,,3,Research 2000
+,,,,,Sums,228,49,72,15,11,63,100

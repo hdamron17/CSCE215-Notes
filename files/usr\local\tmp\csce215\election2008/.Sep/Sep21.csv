@@ -1,0 +1,53 @@
+State,EV,D,R,I,Date,D>9,D5-9,D<5,Tie,R<5,R5-9,R>9,Pollster-len
+Alabama,9,35,61,,Sep 17,,,,,,,9,SurveyUSA+ARG
+Alaska,3,39,55,,Sep 17,,,,,,,3,Research +ARG
+Arizona,10,39,56,,Sep 14,,,,,,,10,ARG
+Arkansas,6,37,47,,Jul 14,,,,,,,6,Rasmussen
+California,55,52,36,,Sep 14,55,,,,,,,Field Poll
+Colorado,9,47,45,,Sep 17,,,9,,,,,Four polls
+Connecticut,7,54,40,,Sep 19,7,,,,,,,ARG+Rasmussen
+D.C.,3,82,13,,Sep 13,3,,,,,,,ARG
+Delaware,3,53,42,,Sep 15,3,,,,,,,ARG+Rasmussen
+Florida,27,45,47,,Sep 17,,,,,27,,,Six polls
+Georgia,15,42,54,,Sep 17,,,,,,,15,Insider A+Rasmussen+SurveyUSA
+Hawaii,4,63,32,,Sep 12,4,,,,,,,ARG
+Idaho,4,33,62,,Sep 17,,,,,,,4,Research 2000
+Illinois,21,54,40,,Sep 17,21,,,,,,,Four polls
+Indiana,11,45,48,,Sep 18,,,,,11,,,Five polls
+Iowa,7,50,44,,Sep 18,,7,,,,,,SurveyUSA+U. of Wis
+Kansas,6,31,63,,Sep 10,,,,,,,6,ARG
+Kentucky,8,37,56,,Sep 17,,,,,,,8,Research +ARG
+Louisiana,9,43,50,,Sep 12,,,,,,9,,ARG
+Maine,4,50,46,,Sep 17,,,4,,,,,Rasmussen
+Maryland,10,54,39,,Sep 19,10,,,,,,,ARG
+Massachusetts,12,49,37,,Aug 05,12,,,,,,,Rasmussen+Suffolk U
+Michigan,17,48,44,,Sep 19,,,17,,,,,Four polls
+Minnesota,10,47,46,,Sep 17,,,10,,,,,U. of Wis+Princeton+SurveyUSA
+Mississippi,6,39,54,,Sep 16,,,,,,,6,ARG+Research 
+Missouri,11,45,50,,Sep 18,,,,,,11,,Research +ARG+Rasmussen
+Montana,3,45,51,,Sep 08,,,,,,3,,Rasmussen+ARG
+Nebraska,5,34,60,,Sep 17,,,,,,,5,ARG
+Nevada,5,46,48,,Sep 14,,,,,5,,,ARG+Rasmussen+Insider A
+New Hampshire,4,48,47,,Sep 15,,,4,,,,,ARG+Opinion R
+New Jersey,15,51,42,,Sep 16,,15,,,,,,Four polls
+New Mexico,5,51,43,,Sep 16,,5,,,,,,ARG+SurveyUSA+FD
+New York,31,52,40,,Sep 15,31,,,,,,,Rasmussen+ARG+Siena Col
+North Carolina,15,41,47,,Sep 18,,,,,,15,,Elon U.+Opinion R+ARG
+North Dakota,3,42,53,,Sep 17,,,,,,,3,Research +ARG
+Ohio,20,45,47,,Sep 17,,,,,20,,,Ten polls
+Oklahoma,7,34,61,,Sep 17,,,,,,,7,Research +ARG+Rasmussen
+Oregon,7,51,44,,Sep 15,,7,,,,,,Rasmussen+Davis Hib
+Pennsylvania,21,47,45,,Sep 17,,,21,,,,,U. of Wis+Rasmussen+Marist Co
+Rhode Island,4,59,36,,Sep 13,4,,,,,,,Rasmussen+ARG
+South Carolina,8,41,55,,Sep 18,,,,,,,8,Rasmussen+ARG
+South Dakota,3,37,54,,Sep 09,,,,,,,3,Rasmussen
+Tennessee,11,36,59,,Sep 19,,,,,,,11,ARG
+Texas,34,36,57,,Sep 16,,,,,,,34,ARG
+Utah,5,28,64,,Sep 13,,,,,,,5,ARG+Rasmussen+Dan Jones
+Vermont,3,58,36,,Sep 13,3,,,,,,,Rasmussen+Research 
+Virginia,13,45,48,,Sep 17,,,,,13,,,Five polls
+Washington,11,50,44,,Sep 18,,11,,,,,,ARG
+West Virginia,5,45,49,,Sep 16,,,,,5,,,ARG
+Wisconsin,10,48,46,,Sep 17,,,10,,,,,Four polls
+Wyoming,3,34,62,,Sep 10,,,,,,,3,Rasmussen+ARG
+,,,,,Sums,153,45,75,0,81,38,146

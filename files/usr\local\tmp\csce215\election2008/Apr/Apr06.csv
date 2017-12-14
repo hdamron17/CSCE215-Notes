@@ -1,0 +1,11 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,30,57,,Mar 27,,,,,,,9,U. of South Alabama-4
+Florida,27,37,46,,Mar 31,,,,,,27,,Quinnipiac U.-8
+Maine,4,49,39,,Apr 01,4,,,,,,,Rasmussen-1
+Michigan,17,42,43,,Mar 25,,,,,17,,,Rasmussen-1
+New Jersey,15,46,44,,Mar 27,,,15,,,,,Rasmu+Fairl
+Ohio,20,43,42,,Mar 31,,,20,,,,,Quinnipiac U.-8
+Pennsylvania,21,43,39,,Mar 31,,,21,,,,,Quinnipiac U.-8
+Washington,11,48,43,,Mar 27,,11,,,,,,Rasmussen-1
+,,,,,Sums,4,11,56,0,17,27,9

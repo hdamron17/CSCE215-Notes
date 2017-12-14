@@ -1,0 +1,53 @@
+State,EV,D,R,I,Date,D>9,D5-9,D<5,Tie,R<5,R5-9,R>9,Pollster-len
+Alabama,9,35,55,,Sep 09,,,,,,,9,Capital Survey
+Alaska,3,33,64,,Sep 09,,,,,,,3,Rasmussen
+Arizona,10,36,44,,Aug 16,,,,,,10,,Arizona S+Mason
+Arkansas,6,37,47,,Jul 14,,,,,,,6,Rasmussen
+California,55,50,38,,Aug 20,55,,,,,,,Rasmussen+Pub. Poli
+Colorado,9,49,46,,Sep 10,,,9,,,,,Insider A+Rasmussen
+Connecticut,7,51,36,,Jul 31,7,,,,,,,Rasmussen
+D.C.,3,90,9,,Jan 01,3,,,,,,,Election 2004
+Delaware,3,50,41,,Feb 28,,3,,,,,,SurveyUSA
+Florida,27,44,49,,Sep 10,,,,,,27,,Insider A+Rasmussen+Quinnipia
+Georgia,15,38,56,,Sep 10,,,,,,,15,Insider Advantage
+Hawaii,4,61,31,,Feb 28,4,,,,,,,SurveyUSA
+Idaho,4,29,68,,Sep 09,,,,,,,4,Rasmussen
+Illinois,21,53,38,,Aug 12,21,,,,,,,Rasmussen
+Indiana,11,43,45,,Aug 30,,,,,11,,,Howey
+Iowa,7,52,40,,Sep 10,7,,,,,,,Selzer
+Kansas,6,35,58,,Aug 20,,,,,,,6,SurveyUSA
+Kentucky,8,37,55,,Aug 11,,,,,,,8,SurveyUSA
+Louisiana,9,38,55,,Aug 17,,,,,,,9,Rasmussen
+Maine,4,52,38,,Sep 10,4,,,,,,,Research 2000
+Maryland,10,52,38,,Sep 05,10,,,,,,,Gonzales Research
+Massachusetts,12,49,37,,Aug 05,12,,,,,,,Rasmussen+Suffolk U
+Michigan,17,48,45,,Sep 10,,,17,,,,,Rasmussen+Insider A+Opinion R
+Minnesota,10,47,46,,Sep 12,,,10,,,,,Princeton+SurveyUSA
+Mississippi,6,39,52,,Sep 10,,,,,,,6,Research 2000
+Missouri,11,46,51,,Sep 11,,,,,,11,,Rasmussen+Opinion R
+Montana,3,42,53,,Sep 08,,,,,,,3,Rasmussen
+Nebraska,5,32,50,,Jul 28,,,,,,,5,Rasmussen
+Nevada,5,46,48,,Sep 11,,,,,5,,,Rasmussen+Insider A
+New Hampshire,4,51,45,,Sep 09,,4,,,,,,Opinion Research
+New Jersey,15,48,43,,Sep 08,,15,,,,,,Marist Co+Fairleigh
+New Mexico,5,47,49,,Sep 08,,,,,5,,,Rasmussen
+New York,31,47,39,,Aug 14,,31,,,,,,Siena Coll.
+North Carolina,15,38,57,,Sep 10,,,,,,,15,Research +SurveyUSA
+North Dakota,3,41,55,,Sep 08,,,,,,,3,Rasmussen
+Ohio,20,46,48,,Sep 10,,,,,20,,,Four polls
+Oklahoma,7,32,64,,Sep 11,,,,,,,7,Rasmussen+SurveyUSA
+Oregon,7,48,41,,Aug 07,,7,,,,,,Rasmussen+SurveyUSA
+Pennsylvania,21,48,45,,Sep 07,,,21,,,,,Rasmussen+Quinnipia
+Rhode Island,4,51,30,,Aug 20,4,,,,,,,Brown U.
+South Carolina,8,40,53,,Jul 23,,,,,,,8,Research 2000
+South Dakota,3,37,54,,Sep 09,,,,,,,3,Rasmussen
+Tennessee,11,32,56,,Aug 20,,,,,,,11,Rasmussen
+Texas,34,41,50,,Aug 21,,,,,,34,,Rasmussen
+Utah,5,24,62,,Sep 11,,,,,,,5,Dan Jones
+Vermont,3,63,29,,Feb 28,3,,,,,,,SurveyUSA
+Virginia,13,47,49,,Sep 09,,,,,13,,,Opinion R+Rasmussen+SurveyUSA
+Washington,11,48,44,,Sep 10,,,11,,,,,Rasmussen+Elway Pol+SurveyUSA
+West Virginia,5,39,44,,Sep 08,,,,,,5,,Mark Blankenship
+Wisconsin,10,46,41,,Aug 05,,10,,,,,,Rasmussen+Wisconsin
+Wyoming,3,39,58,,Sep 10,,,,,,,3,Rasmussen
+,,,,,Sums,130,70,68,0,54,87,129

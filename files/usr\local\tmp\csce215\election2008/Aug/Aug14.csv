@@ -1,0 +1,54 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,Dem,GOP,,Date,>9,5-9,<5,Tie,<5,5-9,>9,Pollster
+Alabama,9,36,51,,Aug 04,,,,,,,9,Capit+Rasmu
+Alaska,3,39,44,,Jul 30,,,,,,3,,Rasmussen-1
+Arizona,10,36,52,,Jul 30,,,,,,,10,Rasmussen-1
+Arkansas,6,37,47,,Jul 14,,,,,,,6,Rasmussen-1
+California,55,50,38,,Jul 24,55,,,,,,,Rasmussen-1
+Colorado,9,47,44,,Jul 21,,,9,,,,,Rasmu+Quinn
+Connecticut,7,51,36,,Jul 31,7,,,,,,,Rasmussen-1
+D.C.,3,90,9,,Jan 01,3,,,,,,,Election 2004
+Delaware,3,50,41,,Feb 28,,3,,,,,,SurveyUSA-3
+Florida,27,44,48,,Aug 11,,,,,27,,,Insider Advantage-1
+Georgia,15,39,48,,Jul 17,,,,,,15,,Rasmussen-1
+Hawaii,4,61,31,,Feb 28,4,,,,,,,SurveyUSA-3
+Idaho,4,37,53,,Jul 30,,,,,,,4,Research 2000-3
+Illinois,21,50,37,,Jul 08,21,,,,,,,Rasmussen-1
+Indiana,11,48,47,,Jun 23,,,11,,,,,SurveyUSA-3
+Iowa,7,46,41,,Aug 07,,7,,,,,,Rasmussen-1
+Kansas,6,37,52,,Aug 11,,,,,,,6,Rasmussen-1
+Kentucky,8,37,55,,Aug 11,,,,,,,8,SurveyUSA-3
+Louisiana,9,37,56,,Jul 09,,,,,,,9,Rasmussen-1
+Maine,4,46,36,,Jul 17,4,,,,,,,Rasmussen-1
+Maryland,10,52,39,,Feb 28,10,,,,,,,Surve+Gonza
+Massachusetts,12,49,37,,Aug 05,12,,,,,,,Rasmu+Suffo
+Michigan,17,47,40,,Aug 07,,17,,,,,,Rasmussen-1
+Minnesota,10,48,41,,Jul 22,,10,,,,,,Rasmu+Quinn
+Mississippi,6,42,52,,Jul 28,,,,,,,6,Rasmu+Resea
+Missouri,11,41,48,,Aug 07,,,,,,11,,Rasmussen-1
+Montana,3,44,45,,Jul 29,,,,,3,,,Rasmussen-1
+Nebraska,5,32,50,,Jul 28,,,,,,,5,Rasmussen-1
+Nevada,5,42,45,,Aug 11,,,,,5,,,Rasmussen-1
+New Hampshire,4,47,43,,Jul 23,,,4,,,,,Rasmu+ARG-3
+New Jersey,15,50,41,,Aug 10,,15,,,,,,Quinn+Rasmu
+New Mexico,5,46,41,,Jul 24,,5,,,,,,Rasmussen-1
+New York,31,55,34,,Aug 04,31,,,,,,,Rasmu+Quinn
+North Carolina,15,45,49,,Aug 11,,,,,15,,,SurveyUSA-3
+North Dakota,3,42,45,,Jul 23,,,,,3,,,Research 2000-3
+Ohio,20,43,45,,Jul 29,,,,,20,,,Quinn+Rasmu
+Oklahoma,7,24,56,,Jul 23,,,,,,,7,Sooner Poll-5
+Oregon,7,48,41,,Aug 07,,7,,,,,,Rasmu+Surve
+Pennsylvania,21,46,41,,Aug 10,,21,,,,,,Franklin+Marshall Coll.-7
+Rhode Island,4,55,31,,Jun 30,4,,,,,,,Rasmussen-1
+South Carolina,8,40,53,,Jul 23,,,,,,,8,Research 2000-2
+South Dakota,3,43,47,,Jul 09,,,,,3,,,Rasmussen-1
+Tennessee,11,36,51,,Jun 24,,,,,,,11,Rasmussen-1
+Texas,34,41,50,,Jul 30,,,,,,34,,Rasmussen-1
+Utah,5,31,55,,Jun 19,,,,,,,5,Rasmu+Dan J
+Vermont,3,63,29,,Feb 28,3,,,,,,,SurveyUSA-3
+Virginia,13,45,45,,Aug 12,,,,13,,,,Insid+Rasmu+Surve
+Washington,11,52,42,,Aug 12,11,,,,,,,Surve+Rasmu
+West Virginia,5,37,45,,Jun 02,,,,,,5,,Rasmussen-1
+Wisconsin,10,46,41,,Aug 05,,10,,,,,,Rasmu+Wisco
+Wyoming,3,40,53,,May 21,,,,,,,3,Research 2000-2
+,,,,,Sums,165,95,24,13,76,68,97

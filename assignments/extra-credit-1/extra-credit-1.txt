@@ -1,0 +1,28 @@
+Extra Credit: C++ pointers
+
+Using one of the following source programs:
+
+ex2.cpp , ex3.cpp , ex4.cpp
+
+Create a compressed tar file that contains one of the above, a Makefile and a readme explaining what the program accomplishes.
+
+Makefile must contain a clean and backup rule (take a look at templates.tar for examples)
+
+executable name must be :  ex2, ex3 or ex4
+
+example
+
+$ tar xvfz <yourUserid>.ex2.tar.gz
+
+$ make
+
+$ ,/ex2
+
+output from compiled program goes here
+
+readme must be accurate.  You may find this link helpful:
+
+https://www.codeproject.com/Articles/11560/Pointers-Usage-in-C-Beginners-to-Advanced
+
+
+Successful completion will earn +1 Extra Credit point towards final grade.

@@ -1,0 +1,54 @@
+State,EV,Dem %,Rep %,Date,>9,5-9,<5,Tie,<5,5-9,>9,Poll-duration
+State,EV,D,R,I,Date,D>9,D5-9,D<5,Tie,R<5,R5-9,R>9,Pollster-len
+Alabama,9,36,55,,Apr 24,,,,,,,9,Capital Survey-9
+Alaska,3,43,48,,Apr 07,,,,,,3,,Rasmussen-1
+Arizona,10,38,47,,Apr 27,,,,,,10,,Arizona State U.-4
+Arkansas,6,30,59,,Mar 18,,,,,,,6,Rasmussen-1
+California,55,50,43,,Apr 16,,55,,,,,,Rasmu+Surve
+Colorado,9,46,43,,Apr 16,,,9,,,,,Rasmussen-1
+Connecticut,7,52,35,,Mar 24,7,,,,,,,Quinnipiac U.-6
+D.C.,3,90,9,,Jan 01,3,,,,,,,Election 2004
+Delaware,3,50,41,,Feb 28,,3,,,,,,SurveyUSA-3
+Florida,27,43,44,,Apr 29,,,,,27,,,Quinnipiac U.-7
+Georgia,15,39,53,,May 06,,,,,,,15,Rasmussen-1
+Hawaii,4,61,31,,Feb 28,4,,,,,,,SurveyUSA-3
+Idaho,4,39,52,,Feb 28,,,,,,,4,SurveyUSA-3
+Illinois,21,60,31,,Feb 28,21,,,,,,,SurveyUSA-3
+Indiana,11,46,46,,Apr 24,,,,11,,,,Resea+Selze
+Iowa,7,49,41,,Apr 23,,7,,,,,,Research 2000-3
+Kansas,6,37,54,,Apr 13,,,,,,,6,SurveyUSA-3
+Kentucky,8,41,53,,May 09,,,,,,,8,Research 2000-3
+Louisiana,9,41,52,,Apr 09,,,,,,,9,Rasmussen-1
+Maine,4,49,39,,Apr 01,4,,,,,,,Rasmussen-1
+Maryland,10,52,39,,Feb 28,10,,,,,,,Surve+Gonza
+Massachusetts,12,51,39,,Apr 23,12,,,,,,,Rasmussen-1
+Michigan,17,44,45,,May 08,,,,,17,,,Rasmu+Rasmu
+Minnesota,10,52,38,,Apr 22,10,,,,,,,Rasmussen-1
+Mississippi,6,41,54,,Feb 28,,,,,,,6,SurveyUSA-3
+Missouri,11,41,47,,May 06,,,,,,11,,Rasmussen-1
+Montana,3,43,48,,Apr 06,,,,,,3,,Rasmussen-1
+Nebraska,5,42,45,,Feb 28,,,,,5,,,SurveyUSA-3
+Nevada,5,43,48,,Apr 21,,,,,,5,,Rasmussen-1
+New Hampshire,4,42,50,,Apr 30,,,,,,4,,Rasmu+U. of
+New Jersey,15,56,32,,Apr 28,15,,,,,,,Monmouth U.-5
+New Mexico,5,45,46,,Apr 13,,,,,5,,,Surve+Rasmu
+New York,31,52,35,,May 01,31,,,,,,,Rasmussen-1
+North Carolina,15,40,43,,May 08,,,,,15,,,Rasmussen-1
+North Dakota,3,38,44,,Apr 03,,,,,,3,,Dakota Wesleyan U.-11
+Ohio,20,42,43,,Apr 29,,,,,20,,,Quinnipiac U.-7
+Oklahoma,7,34,57,,Feb 28,,,,,,,7,SurveyUSA-3
+Oregon,7,52,38,,May 07,7,,,,,,,Rasmussen-1
+Pennsylvania,21,49,38,,May 06,21,,,,,,,Susquehanna Polling-6
+Rhode Island,4,53,38,,Feb 28,4,,,,,,,SurveyUSA-3
+South Carolina,8,45,48,,Feb 28,,,,,8,,,SurveyUSA-3
+South Dakota,3,34,51,,Apr 03,,,,,,,3,Dakota Wesleyan U.-11
+Tennessee,11,31,58,,Apr 03,,,,,,,11,Rasmussen-1
+Texas,34,41,50,,May 07,,,,,,34,,Resea+Rasmu
+Utah,5,39,50,,Feb 28,,,,,,,5,SurveyUSA-3
+Vermont,3,63,29,,Feb 28,3,,,,,,,SurveyUSA-3
+Virginia,13,41,47,,May 08,,,,,,13,,Rasmussen-1
+Washington,11,53,40,,Apr 16,11,,,,,,,SurveyUSA-3
+West Virginia,5,35,53,,Feb 28,,,,,,,5,SurveyUSA-3
+Wisconsin,10,43,47,,May 05,,,,,10,,,Rasmussen-1
+Wyoming,3,35,54,,Feb 28,,,,,,,3,SurveyUSA-3
+,,,,,Sums,163,65,9,11,107,86,97
